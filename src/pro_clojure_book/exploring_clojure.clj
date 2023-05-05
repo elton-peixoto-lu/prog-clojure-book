@@ -1,11 +1,9 @@
 (ns pro-clojure-book.exploring-clojure)
 
 
-(+ 2 3)
-
 ;;como citado em clojure nao existe instrucoes, apenas expressoes
 ;;(expressoes retornam valores) e esses valores podem ser usados e aninhados em outras expressoes
-
+(+ 2 3)
 
 (+ 2 3 4)
 
